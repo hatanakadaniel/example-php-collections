@@ -1,0 +1,12 @@
+{
+    "name": "dhatanaka/src",
+    "authors": [
+        {
+            "name": "Daniel Hatanaka",
+            "email": "daniel.hatanaka@s2it.com.br"
+        }
+    ],
+    "require": {
+        "php-ds/php-ds": "^1.2"
+    }
+}
